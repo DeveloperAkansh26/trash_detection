@@ -11,3 +11,4 @@
 4. Upload image and put it in the yolov5 directory as well
 5. Run the detect cell.
 ## Demo
+![](trash.gif)
